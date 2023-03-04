@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Παραδοτέο 1](https://github.com/courses-ionio/sw/discussions/1156)|Στόχοι που έχω θέσει για το μάθημα! |
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1307) |Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
-| 3 | Γραμμή εντολών (no systemd) | | |
+| 3 | Γραμμή εντολών (no systemd) |[Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1331) |Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
@@ -39,5 +39,11 @@
 - Για αυτόματο καθορισμό αριθμού εκτελέσεων κάθε εντολής από προεπιλογή και εκτέλεση 10 εκτελέσεις συγκριτικής αξιολόγησης, χρησιμοποίησα την εντολή <kbd>hyperfine —runs 5 ’sleep 0.3’</kbd>
 
 - Για έλεγχο μεγέθους βήματος, χρησιμοποίησα την εντολή <kbd>hyperfine —parameter-scan delay 0.3 0.7 -D 0.2 ‘sleep {delay}’</kbd>
+
+[Asciinema]()
+
+# Άσκηση Γραμμής Εντολών 
+
+Στο τρίτο παραδοτέο μας ζητήθηκε η εγκατάσταση ενός λογισμικού χωρίς systemd. Για το σκοπό αυτό επέλεξα την χρήση του void linux με το οποίο πραγματοποίησα την άσκηση γραμμής εντολών που εκτέλεσα και στο προηγούμενο παραδοτέο.
 
 [Asciinema]()

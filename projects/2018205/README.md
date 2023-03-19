@@ -11,8 +11,8 @@
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Παραδοτέο 1](https://github.com/courses-ionio/sw/discussions/1156)|Στόχοι που έχω θέσει για το μάθημα! |
 | 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[Παραδοτέο 2](https://github.com/courses-ionio/sw/discussions/1307) |Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
 | 3 | Γραμμή εντολών (no systemd) |[Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1331) |Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
-| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1379) |Εμπρόθεσμη Παράδοση Παραδοτέου |
-| 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
+| 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1379) |Προσθήκη παραγράφου στο βιβλίο.|
+| 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1427) |Επιλογή θέματος για την πρώτη εργασία του συμμετοχικού περιεχομένου.|
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
@@ -58,3 +58,20 @@
 - [media.md](https://github.com/despina-komo/kallipos/blob/cde00861fe8ed6ef61232ff60d2a184cc8a757b8/media.md)
 - [media.lua](https://github.com/despina-komo/kallipos/blob/b2eb90207d6daa7a9afdf93ca3ee0044784fe327/media.lua)
 - [make-latex.sh](https://github.com/despina-komo/kallipos/blob/c0b0ca79a88ee13150a91569d9fc66b6df36fbc5/makee-latex.sh)
+
+# Συμμετοχικό περιεχόμενο A1+A2
+
+Για την πρώτη εργασία του συμμετοχικού περιεχομένου Α1+Α2 επέλαξα να κάνω για την γλώσσα προγραμματισμού C++ και για το λογισμικό Fedora.
+
+### Συμμετοχικό περιεχόμενο A1
+|gallery | images|
+| --- | --- | 
+|[C++.md](https://github.com/despina-komo/_gallery/blob/%CE%A02018205/C++.md)|[C++](https://github.com/despina-komo/images/blob/%CE%A02018205/C++.png) 
+|[Fedora.md](https://github.com/despina-komo/_gallery/blob/%CE%A02018205/fedora.md)|[Fedora](https://github.com/despina-komo/images/blob/master/fedora.png)
+
+### Συμμετοχικό περιεχόμενο A2
+|timeline| slides|
+| --- | --- | 
+|[Programming Languages](https://github.com/despina-komo/site/blob/%CE%A02018205/programming%20languages.md)|[Programming Languages](https://github.com/despina-komo/site/blob/master/_slides/programming%20languages.md)
+|[Interactive Systems](https://github.com/despina-komo/site/blob/%CE%A02018205/_timeline/interactive_systems.md)|[Archetypes](https://github.com/despina-komo/site/blob/%CE%A02018205/_sildes/archetypes.md)
+

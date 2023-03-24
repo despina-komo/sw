@@ -13,7 +13,7 @@
 | 3 | Γραμμή εντολών (no systemd) |[Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1331) |Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1379) |Προσθήκη παραγράφου στο βιβλίο.|
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1427) |Επιλογή θέματος για την πρώτη εργασία του συμμετοχικού περιεχομένου.|
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |Άσκηση γραμμής εντολών με ένα λογισμικό χωρίς systemd |[Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1481)|
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
@@ -75,4 +75,11 @@
 |[Programming Languages](https://github.com/despina-komo/site/blob/%CE%A02018205/programming%20languages.md)|[Programming Languages](https://github.com/despina-komo/site/blob/master/_slides/programming%20languages.md)
 |[Interactive Systems](https://github.com/despina-komo/site/blob/%CE%A02018205/_timeline/interactive_systems.md)|[Archetypes](https://github.com/despina-komo/site/blob/%CE%A02018205/_sildes/archetypes.md)
 
-# Ολοκληρωμένα Video Quiz: 5/10
+# Άσκηση Γραμμής Εντολών 
+
+Σε αυτό το παραδοτέο μας ζητήθηκε να κάνουμε μία άσκηση γραμμής εντολών με ένα λογισμικό το οποίο θα είναι χωρίς systemd. Το λογισμικό που χρησιμοποίησα ήταν το Void Linux και για άσκηση γραμμής εντολών επέλεξα την άσκηση search the web from the terminal. Η άσκηση αυτή ζητάει να γίνει αναζήτηση μέσω τερματικού. Μέσα από αυτή την άσκηση βλέπουμε πόσο γρήγορα μπορεί κάποιος να ψάξει κάτι από το τερματικό.
+Χρησιμοποίησα τις εντολές <kbd>sudo xbps- install googler</kbd> και <kbd>sudo bps -install ddgr</kbd> για εγκατάσταση των εργαλείων googler και ddgr.
+
+[asciinema]()
+
+# Ολοκληρωμένα Video Quiz: 6/10

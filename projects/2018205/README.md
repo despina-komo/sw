@@ -13,7 +13,7 @@
 | 3 | Γραμμή εντολών (no systemd) |[Παραδοτέο 3](https://github.com/courses-ionio/sw/discussions/1331) |Χρήση του Void Linux και του Asciinema για ολοκλήρωση της άσκησης. |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1379) |Προσθήκη παραγράφου στο βιβλίο.|
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1427) |Επιλογή θέματος για την πρώτη εργασία του συμμετοχικού περιεχομένου.|
-| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |Άσκηση γραμμής εντολών με ένα λογισμικό χωρίς systemd |[Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1481)|
+| 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1481)|Άσκηση γραμμής εντολών με ένα λογισμικό χωρίς systemd|
 | 7 | συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |

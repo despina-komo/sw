@@ -14,7 +14,7 @@
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) |[Παραδοτέο 4](https://github.com/courses-ionio/sw/discussions/1379) |Προσθήκη παραγράφου στο βιβλίο.|
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 |[Παραδοτέο 5](https://github.com/courses-ionio/sw/discussions/1427) |Επιλογή θέματος για την πρώτη εργασία του συμμετοχικού περιεχομένου.|
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) |[Παραδοτέο 6](https://github.com/courses-ionio/sw/discussions/1481)|Άσκηση γραμμής εντολών με ένα λογισμικό χωρίς systemd|
-| 7 | συμμετοχικό περιεχόμενο B1 | | |
+| 7 | συμμετοχικό περιεχόμενο B1 |[Παραδοτέο 7](https://github.com/courses-ionio/sw/discussions/1529) |Έρευνα με παρόμοια περίπτωση με τις θεματικές που διαλέξαμε στο 5ο παραδοτέo|
 | 8 | Κατασκευή του βιβλίου Β2 (συνεργατικά) | | |
 | 9 | συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Τελική αναφορά* | | |
@@ -82,4 +82,12 @@
 
 [asciinema]()
 
-# Ολοκληρωμένα Video Quiz: 6/10
+# Συμμετοχικό περιεχόμενο Β1
+
+Σε αυτό το παραδοτέο μας ζητήθηκε μία νέα έρευνα με παρόμοια περίπτωση με τις θεματικές που διαλέξαμε στο 5ο παραδοτέο. Γι' αυτό, επέλεξα να ασχοληθώ περεταίρω με το λογισμικό Fedora και να ψάξω περισσότερες λεπτομέρειες.
+
+|_case-study| _includes|images|
+| --- | --- | --- |
+|[Fedora](https://github.com/despina-komo/site/blob/%CE%A02018205/_case-study/Fedora.md)|[cs-Fedora](https://github.com/despina-komo/site/blob/%CE%A02018205/_includes/cs-Fedora.md)| [Fedora](https://github.com/despina-komo/images/blob/master/fedora.png)
+
+# Ολοκληρωμένα Video Quiz: 7/10
